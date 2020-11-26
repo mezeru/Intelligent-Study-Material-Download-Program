@@ -37,4 +37,4 @@
 
 
 
-** Note : Please Read the Requirement.txt File and install any modules necessary **
+**Note : Please Read the Requirement.txt File and install any modules necessary**
