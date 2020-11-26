@@ -6,3 +6,4 @@
 - ##### Displaying Top Five PDF files relevant to a pharse entered by the user
 - ##### Displaying phrases related to the one entered by the user
    
+*Note : Please Read the Requirements.txt file*
