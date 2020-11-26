@@ -1,4 +1,4 @@
-# A Simple Webscaping and Text Identification Program (Python 3.7.6)
+## **A Simple Webscaping and Text Identification Program (Python 3.7.6)**
 
 ## Features :
 - ##### Downloading all downloadable files and links from a Website
