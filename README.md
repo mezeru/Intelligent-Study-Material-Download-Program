@@ -34,3 +34,7 @@
 ##### 10. When the process is completed the downloaded Data will be stored in the location where the program file.
  
 
+
+
+
+** Note : Please Read the Requirement.txt File and install any modules necessary **
