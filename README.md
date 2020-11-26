@@ -1,13 +1,13 @@
-### A Simple Webscaping and Text Identification Program (Python 3.7.6)
+# A Simple Webscaping and Text Identification Program (Python 3.7.6)
 
-### Features :
+## Features :
 - ##### Downloading all downloadable files and links from a Website
 - ##### Segregating of different types of files
 - ##### Displaying Top Five PDF files relevant to a pharse entered by the user
 - ##### Displaying phrases related to the one entered by the user
 
 
-### How To Use :
+## How To Use :
 
 
 ##### 1. Enter the address of the website when prompted or the url of the file you want to download.
