@@ -1,4 +1,4 @@
-#A Simple Web Scraping and Text Identification Program (Python 3.7.6) Documentation
+# A Simple Web Scraping and Text Identification Program (Python 3.7.6) Documentation
 
 ## Introduction
 This documentation provides instructions on how to use the "A Simple Web Scraping and Text Identification Program." This program is implemented in Python 3.7.6 and offers the following features:
