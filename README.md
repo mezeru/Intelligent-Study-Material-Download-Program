@@ -26,11 +26,6 @@ Follow the steps below to utilize the program effectively:
 - Make sure you have a stable internet connection and sufficient disk space to store the downloaded data
 - Please Read the Requirement.txt File and install any modules necessary
 
-Feel free to explore and utilize this "A Simple Web Scraping and Text Identification Program" to extract useful information and identify relevant content from websites or downloadable files.
+## Feel free to explore and utilize this "A Simple Web Scraping and Text Identification Program" to extract useful information and identify relevant content from websites or downloadable files.
  
 
-<br />
-<br />
-<br />
-
-###### **Note : Please Read the Requirement.txt File and install any modules necessary**
